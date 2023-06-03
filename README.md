@@ -4,7 +4,15 @@ To write a program that would print the information (name, year of joining, sala
 
 ## PROCEDURE:
 ### STEP 1:
-
+Create class Employee with details name,year of joining, salary, address.
+### STEP 2:
+Create class Main where we have main function.
+### STEP 3:
+Within main function create object for class Employee.
+### STEP 4:
+Through the object add vaues for Employee details and display it through function display in Employee class.
+### STEP 5:
+End of program.
 ## PROGRAM:
 ```java
 class Employee
